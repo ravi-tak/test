@@ -1,0 +1,1 @@
+print("Mina San Konnichiwa")
