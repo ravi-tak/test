@@ -1,7 +1,3 @@
-print("Mina San Konnichiwa")
-print("I'm Ravi")
-print("Nice to meet you")
-print("Arigato")
 print("Gozaimasu")
 print("Thank you so much")
 print("Sayonara")
